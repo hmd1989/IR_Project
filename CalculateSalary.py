@@ -1,11 +1,11 @@
 
 
 
-firstName= raw_input("Enter your Name : ")
+firstName=input("Enter your Name : ")
 
-lastName= raw_input("Enter your Family : ")
+lastName= input("Enter your Family : ")
 
-workHour=raw_input("how many hour do you work during  week?: ")
+workHour=input("how many hour do you work during  week?: ")
 
 MinimumSalary=150000
 
